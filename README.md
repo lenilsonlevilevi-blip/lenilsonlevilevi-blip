@@ -41,9 +41,6 @@
 
 ### 🚀 Projetos em destaque
 
-**🎵 [Worship Hub](#)** *(em desenvolvimento)*
-SaaS para gestão de ministérios de louvor: controle de repertório, escalas mensais, RBAC com 3 níveis de permissão (Admin, Líder de Louvor, Ministro) e histórico de músicas com estatísticas de uso. Construído com Supabase (PostgreSQL + RLS).
-
 **📊 [Sales Insights Hub](https://github.com/lenilsonlevilevi-blip/Sales-insights-hub)**
 Plataforma web de análise e visualização de dados de vendas, com dashboards interativos e geração de insights para tomada de decisão. Desenvolvido com React, Vite, TanStack Router e Recharts. Deploy em produção via Cloudflare Pages.
 
