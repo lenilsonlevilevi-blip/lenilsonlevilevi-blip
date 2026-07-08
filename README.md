@@ -56,15 +56,6 @@ Aplicação web full stack para gerenciamento de uma livraria digital: autentica
 
 ---
 
-### 📈 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lenilsonlevilevi-blip&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenilsonlevilevi-blip&layout=compact&hide_border=true" height="165" />
-</p>
-
----
-
 ### 📫 Vamos conversar?
 
 Estou em busca de oportunidades como **estagiário/desenvolvedor júnior** na área de tecnologia, seja em desenvolvimento web ou suporte de TI. Se você tem uma vaga ou quer trocar uma ideia sobre projetos, me chama!
